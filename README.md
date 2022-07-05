@@ -13,7 +13,7 @@ pip install cython tqdm pandas sklearn
 pip install torch==1.4.0 torchvision==0.5.0
 pip install mmcv==0.2.14
 
-git clone https://github.com/nuannuanhcc/DMRNet.git ChuchuHan
+git clone https://github.com/ChuchuHan/DMRNet.git 
 cd DMRNet/mmdetection
 pip install -v -e .
 ```
